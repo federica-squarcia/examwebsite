@@ -466,3 +466,12 @@ div .card-deck{
   background: #125688;
   color: white;
 }
+
+
+#imginsta {
+  max-width: 25%;
+}
+
+#imgan1 {
+  max-width: 60%
+}
